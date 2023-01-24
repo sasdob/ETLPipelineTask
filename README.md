@@ -1,4 +1,4 @@
-# PrizmaDeskTask
+# ETLPipeLineTask
 
 ## Extraction
 This ETL process extracts CSV files with transactions and postions data from SFTP Server. 
