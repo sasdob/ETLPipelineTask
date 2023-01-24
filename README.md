@@ -16,7 +16,7 @@ Loads transformed data in PostgreeSQL database in two tables fct_transactions an
 ![image](https://user-images.githubusercontent.com/118864207/214380667-f2f16746-c344-41bc-af9e-08b6f95b240b.png)
 
 
-### Table fct transactions
+### Table fct_transactions
 
 ![image](https://user-images.githubusercontent.com/118864207/214380485-7b6313ed-a1ff-48b0-ac66-dab34bd2c47c.png)
 
