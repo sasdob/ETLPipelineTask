@@ -1,0 +1,7 @@
+pos_id,pos_name,current_price,quantity,currency,value,instrument_type,fx_eur,value_eur
+1234,USD Account,1,1277.71,USD,1277.71,cash,0.9482,1211.524622
+stx.442397,Big Bad Company,23.42,100,EUR,2342,equity,1,2342
+1180,EUR Account,1,2361.94,EUR,2361.94,cash,1,2361.94
+bnd.US9307,United States Bond 2027 Mar 3.71%,0.968,5000,USD,4840,bonds,0.9482,4589.288
+stx.764414,Funny Company,1.12,100,CHF,112,equity,1.0129,113.4448
+927,CHF Account,1,0,CHF,0,cash,1.0129,0

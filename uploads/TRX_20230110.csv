@@ -1,0 +1,2 @@
+trx_id,pos_id,description,trx_type,quantity,price,value,currency
+1023187,crpt.BTCXEUR,Buy 0.1 Bitcoin @16'246.46,buy,0.1,16246.46,1624.646,EUR

@@ -1,0 +1,2 @@
+trx_id,pos_id,description,trx_type,quantity,price,value,currency
+1026123,927,Withdraw 10'000.00 CHF,withdrawal,-10000,1,-10000,CHF

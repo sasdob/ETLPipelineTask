@@ -1,0 +1,2 @@
+trx_id,pos_id,description,trx_type,quantity,price,value,currency
+1023847,stx.164008,Sell 250 Chocolate Factory @22.89,sell,-250,22.89,-5722.5,CHF
